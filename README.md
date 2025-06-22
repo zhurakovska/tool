@@ -1,7 +1,7 @@
 # React homework template
 
 Цей проект був створений за допомогою
-[Create React App](https://github.com/facebook/create-react-app). Для знайомства
+[Create React StatusFilter](https://github.com/facebook/create-react-app). Для знайомства
 і налаштування додаткових можливостей
 [звернися до документації](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -95,7 +95,7 @@ GitHub.
 
 ```jsx
 <BrowserRouter basename="/your_repo_name">
-  <App />
+  <StatusFilter />
 </BrowserRouter>
 ```
 
